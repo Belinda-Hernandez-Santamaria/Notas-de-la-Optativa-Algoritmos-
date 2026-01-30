@@ -8,3 +8,5 @@ _fuerza bruta_, ya que aunque resuelva el problema con listas más grandes el al
 - Algoritmo Heuridistico: Es aquel que no da una solución concreta, da un resultado hasta donde la computadora se rinde
 - Algoritmo Polinomial: Es el que permite resolver un problema con una cantidad de pasos polinomial.
 - Recursión: Tiene complejidad: $n < n \log(n)< n²$
+
+Es importante considerar aplicar **Buenas prácticas**
