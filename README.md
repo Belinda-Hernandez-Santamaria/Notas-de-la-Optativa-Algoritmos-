@@ -10,3 +10,8 @@ _fuerza bruta_, ya que aunque resuelva el problema con listas más grandes el al
 - Recursión: Tiene complejidad: $n < n \log(n)< n²$
 
 Es importante considerar aplicar **Buenas prácticas**
+
+Inline: La Gráfica $G$
+Display: $$ G= \frac{a}{b} $$
+
+Una función $f(n)$ es $O(n)$ si existe c tal que $$ |f(n)|<= c|n| $$
